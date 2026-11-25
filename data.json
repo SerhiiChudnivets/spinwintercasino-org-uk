@@ -66,18 +66,21 @@
       "bonuses": [
         {
           "link": "/play/",
-          "logo": "/uploads/bonus58.webp",
-          "name": "Casino Welcome Pack 550% up to €12,100 + 550 Free Spins"
+          "logo": "/uploads/bonus57.webp",
+          "name": "Welcome Packs (up to 800% / 620% + FS & 300,000 Chips)",
+          "Name": "Welcome Packs (up to 800% / 620% + FS & 300,000 Chips)"
         },
         {
           "link": "/play/",
           "logo": "/uploads/bonus56.webp",
-          "name": "VIP Welcome Pack 800% Welcome Bonus"
+          "name": "Premium Shop & Land Rover Defender Grand Prize",
+          "Name": "Premium Shop & Land Rover Defender Grand Prize"
         },
         {
           "link": "/play/",
-          "logo": "/uploads/bonus57.webp",
-          "name": "Crypto Welcome Pack 620% up to 14,500 USDT + 620 FS"
+          "logo": "/uploads/bonus58.webp",
+          "name": "17-Tier VIP Club & Jackpots up to €1,000,000",
+          "Name": "17-Tier VIP Club & Jackpots up to €1,000,000"
         }
       ],
       "faq": [
@@ -132,27 +135,31 @@
       "slots": [
         {
           "link": "",
-          "logo": "/uploads/c8a1b6361d7e764538f48bb65a8d2832.webp",
-          "name": "Aviator",
-          "logo_alt": "aviator"
+          "logo": "/uploads/3a977159d4449d04c5b5e93e231f52fe.webp",
+          "name": "Lucky Money",
+          "Name": "Lucky Money",
+          "logo_alt": "lucky money"
         },
         {
           "link": "",
-          "logo": "/uploads/6d947639dc178568b5f2352d5797a08c.webp",
-          "name": "Wild Spin",
-          "logo_alt": "wild spin"
+          "logo": "/uploads/d27fd4fab9ab10c93381228b613a5492.webp",
+          "name": "Legacy of Dead",
+          "Name": "Legacy of Dead",
+          "logo_alt": "Legacy of Dead"
         },
         {
           "link": "",
-          "logo": "/uploads/ee702c2ac004e5e8a761a4bb41f6fbd1.webp",
-          "name": "SumoShow Down",
-          "logo_alt": "sumo showdown"
+          "logo": "/uploads/70515c2c284155bd77b70fbf7da5f44d.webp",
+          "name": "Aviatrix",
+          "Name": "Aviatrix",
+          "logo_alt": "Aviatrix"
         },
         {
           "link": "",
-          "logo": "/uploads/aa671f2972c1be72c3cf533d48ae71f0.webp",
-          "name": "Sweet Bonanza",
-          "logo_alt": "sweet bonanza dice"
+          "logo": "/uploads/67208159a9e5f8396e714ec60dcf5e83.webp",
+          "name": "StormForged",
+          "Name": "StormForged",
+          "logo_alt": "stormforged"
         }
       ],
       "bonuses": [
@@ -454,8 +461,8 @@
     }
   ],
   "url": "spinwintercasino.org.uk",
-  "_generated_at": "2026-11-25T12:45:41.902Z",
+  "_generated_at": "2026-11-25T14:33:45.938Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-25T12:45:42.604Z",
-  "_deploy_trigger": "o1r57"
+  "_last_deploy": "2026-11-25T14:33:46.607Z",
+  "_deploy_trigger": "byt2of"
 }
