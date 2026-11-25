@@ -257,7 +257,7 @@
   "hero_title": "SpinWinter Casino",
   "hero_subtitle": "Enter the Winter Realm and claim your start",
   "hero_badge": "SpinWinter Start Here",
-  "cta_text": "Explore",
+  "cta_text": "Play Now",
   "tagline": "Up to €12,100 + 550 FS",
   "features_list": null,
   "footer_text": "© 2026. SpinWinter Casino. All rights reserved",
@@ -267,7 +267,7 @@
   "register_text": "Sign Up",
   "slots_title": "Games",
   "bonus_title": "Promotions",
-  "get_bonus_btn_text": "Play Now",
+  "get_bonus_btn_text": "Explore",
   "redirect_link": "/play/",
   "home_name": "SpinWinter Casino",
   "subdomains": null,
@@ -454,8 +454,8 @@
     }
   ],
   "url": "spinwintercasino.org.uk",
-  "_generated_at": "2026-11-25T12:37:11.530Z",
+  "_generated_at": "2026-11-25T12:45:41.902Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-25T12:37:12.265Z",
-  "_deploy_trigger": "pus7xc"
+  "_last_deploy": "2026-11-25T12:45:42.604Z",
+  "_deploy_trigger": "o1r57"
 }
